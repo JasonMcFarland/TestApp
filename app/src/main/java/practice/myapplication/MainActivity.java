@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
     public void balls(){
         int i = 0;
         int j = 9;
+        double fuck =4.0;
     }
 }
